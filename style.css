@@ -27,7 +27,7 @@
     font-family: Arial, Helvetica, sans-serif;
 
 }
-.redirect {
+.redirect2{
 
     background-color: white;
     color: rgb(0, 0, 0);
@@ -36,20 +36,13 @@
     width: 210px;
     border: none;
     margin-top: 20px;
-    margin-left: 10rem;
-
 }
-
-.redirect:hover {
+.redirect2:hover {
 
     color: rgb(255, 255, 255);
     background-color: rgb(15, 255, 35);
     cursor: pointer;
     box-shadow: 5px 5px 5px rgb(0, 0, 0);
-
-
-
-
 
 
 }
